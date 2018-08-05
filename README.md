@@ -2,6 +2,19 @@
 
 A calculator capable of taking input and displaying output in different number bases, with access to all of Python3's numerical operators. Written in Python, with a Tkinter GUI.
 
+## Screenshots
+<table>
+<td>
+<img src="images/calculator_ascii_2.png" width="233" title="Calculator - ASCII to binary">
+</td>
+<td>
+<img src="images/calculator_2_10.png" width="233" title="Calculator - binary to decimal">
+</td>
+<td>
+<img src="images/calculator_10_ascii.png" width="233" title="Calculator - decimal to ASCII">
+</td>
+</table>
+
 ## Getting Started
 
 This project consists of a single module.
